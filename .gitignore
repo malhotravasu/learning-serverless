@@ -2,6 +2,8 @@ self-reference.json
 .firebaserc
 firebase.json
 
+js/config.js
+
 # Logs
 logs
 *.log
